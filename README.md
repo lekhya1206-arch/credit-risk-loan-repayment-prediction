@@ -84,15 +84,15 @@ The model demonstrates **strong ability to separate good borrowers from risky bo
 
 ### ROC Curve
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ### KS Statistic Plot
 
-![KS Plot](images/ks_plot.png)
+![KS Plot](ks_plot.png)
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ---
 
